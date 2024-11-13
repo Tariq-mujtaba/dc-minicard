@@ -11,7 +11,7 @@
 
 ## Overview
 
-![Minimal Blog Card Screenshot](resources\screenshot\Screenshot.png)
+![Minimal Blog Card Screenshot](https://github.com/Tariq-mujtaba/minimal-blogcard/raw/main/resources/screenshot/Screenshot.png)
 
 This project is a minimalistic blog card component that showcases a simple design with a clean and modern aesthetic. The card includes a featured image, a tag, a blog title, a brief description, and the author's name. It is built using HTML and CSS to demonstrate a minimal approach to web design, focusing on typography, layout, and visual appeal.
 
